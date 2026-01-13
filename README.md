@@ -1,15 +1,50 @@
+<!-- TITULO -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:262626&height=190&text=MOISESWAVE&fontColor=c084fc&fontSize=42&animation=fadeIn&stroke=c084fc&strokeWidth=0.6" />
+</div>
+
+
 <div align="center">
 
-## ⛓️ MOISESWAVE ⛓️  
-### creative signal · distorted sound · digital chaos
-
+### creative signal · distorted sound · digital chaos  
 <sub>design · music · code</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=80&section=footer" />
+<!-- footer -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:0f0f0f&height=35&section=footer" />
+</div>
 
-## 🌐 Socials:
+<!-- Psychedelic Space Divider -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="420px" />
+</div>
+
+<!-- Horizontal rule -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
+</div>
+
+
+## ◉ ＳＩＧＮＡＬ　ＭＡＮＩＦＥＳＴ
+
+- sound before structure  
+- visuals before rules  
+- chaos with intention  
+- late nights, loud ideas  
+
+<sub>inspired by distortion · neon · future noise</sub>
+
+<!-- Horizontal rule -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
+</div>
+
+
+## ◌ ＳＯＣＩＡＬ　ＬＩＮＫＳ
+
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-0f0f0f?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mosies.scp)
@@ -18,35 +53,129 @@
 
 </div>
 
-<!-- Snake Game Repo View -->
+<!-- Horizontal rule -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
 </div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 
-## 🧪 TOOLCHAIN
-
-![JS](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python)
-![Node](https://img.shields.io/badge/NODE-000?style=for-the-badge&logo=node.js)
-![After Effects](https://img.shields.io/badge/AFTER_EFFECTS-000?style=for-the-badge&logo=adobeaftereffects)
-![Blender](https://img.shields.io/badge/BLENDER-000?style=for-the-badge&logo=blender)
-
-
+## ◈ ＣＲＥＡＴＩＶＥ　ＴＯＯＬＣＨＡＩＮ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MoisesWave&theme=tokyonight&hide_border=true&show_icons=true" />
+![After Effects](https://img.shields.io/badge/After%20Effects-0f0f0f?style=for-the-badge&logo=adobeaftereffects)
+![Photoshop](https://img.shields.io/badge/Photoshop-0f0f0f?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-0f0f0f?style=for-the-badge&logo=adobeillustrator)
+![Blender](https://img.shields.io/badge/Blender-0f0f0f?style=for-the-badge&logo=blender)
+![Canva](https://img.shields.io/badge/Canva-0f0f0f?style=for-the-badge&logo=canva)
 
+</div>
+
+<!-- Horizontal rule -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
+</div>
+
+
+
+## ⌬ ＤＡＷ　ＺＯＮＥ
+
+<div align="center">
+
+![Ableton Live](https://img.shields.io/badge/Ableton%20Live-1a1a1a?style=for-the-badge&logo=abletonlive&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL%20Studio-1a1a1a?style=for-the-badge&logo=flstudio&logoColor=orange)
+![Virtual DJ](https://img.shields.io/badge/Virtual%20DJ-1a1a1a?style=for-the-badge&logo=virtualdj&logoColor=red)
+
+</div>
+
+<!-- Horizontal rule -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
+</div>
+
+
+
+## ⧉ ＤＥＶ　ＳＹＳＴＥＭ
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Elixir](https://img.shields.io/badge/Elixir-000?style=for-the-badge&logo=elixir)
+
+</div>
+
+<!-- Horizontal rule -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
+</div>
+
+
+## ⛶ ＩＮＦＲＡ　／　ＣＬＯＵＤ
+
+<div align="center">
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0f0f0f?style=for-the-badge&logo=googlecloud)
+![Azure](https://img.shields.io/badge/Azure-0f0f0f?style=for-the-badge&logo=microsoftazure)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0f0f0f?style=for-the-badge&logo=cloudflare)
+![Oracle](https://img.shields.io/badge/Oracle-0f0f0f?style=for-the-badge&logo=oracle)
+
+</div>
+
+<!-- Horizontal rule -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
+</div>
+
+
+
+
+## ⟁ ＳＹＳＴＥＭ　ＴＯＯＬＳ
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Trello](https://img.shields.io/badge/Trello-000?style=for-the-badge&logo=trello)
+
+</div>
+
+<!-- Horizontal rule -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
+</div>
+
+
+## ⌁ ＳＩＧＮＡＬ　ＦＬＯＷ
+
+<div align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<!-- Horizontal rule -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
+</div>
+
+
+
+## ⦿ ＳＹＳＴＥＭ　ＴＥＬＥＭＥＴＲＹ
+
+<div align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=MoisesWave&theme=tokyonight&hide_border=true" />
+</div>
 
+<!-- Horizontal rule -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=60&section=footer" />
 </div>
 
 
----
+
+<sub>⚠️ experimental zone · distorted aesthetics · volume up</sub>
+
 [![](https://visitcount.itsvg.in/api?id=MoisesWave&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
