@@ -20,7 +20,7 @@
 
 <!-- GIF 1-->
 <div align="center">
-<img src="https://i.pinimg.com/originals/02/c1/42/02c142bbaa030cd3b1af1c47825e4bf0.gif" width="360" />
+<img src="assets/astro.gif" width="360" />
 </div>
 
 
