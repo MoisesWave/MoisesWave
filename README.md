@@ -19,8 +19,9 @@
 
 <!-- Psychedelic Space Divider -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="420px" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJxcHFvOTRoaTc0cm5ldmNsc3F6c3E4ZGVldG5ncmYwd3c0ZTEwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGK28plOpgBA1TW/giphy.gif" width="360" />
 </div>
+
 
 <!-- Horizontal rule -->
 <div align="center">
