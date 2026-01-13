@@ -181,8 +181,17 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJxcHFvOTRoaTc0cm5ldmNsc3F6c3E4ZGVldG5ncmYwd3c0ZTEwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGK28plOpgBA1TW/giphy.gif" width="260" />
 </div>
 
+<div align="center">
+<sub>⚠️ Experimental zone · Distorted aesthetics ·Volume up</sub>
+</div>
 
-<sub>⚠️ experimental zone · distorted aesthetics · volume up</sub>
+
+<sub align="center">explicit signals · distorted sound · creative chaos</sub>
 
 [![](https://visitcount.itsvg.in/api?id=MoisesWave&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Parental -->
+
+
+
 
