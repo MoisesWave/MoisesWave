@@ -17,6 +17,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:0f0f0f&height=35&section=footer" />
 </div>
 
+<br>
 
 <!-- GIF 1-->
 <div align="center">
@@ -175,10 +176,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=60&section=footer" />
 </div>
 
+<br>
 
 <!-- GIF 2-->
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJxcHFvOTRoaTc0cm5ldmNsc3F6c3E4ZGVldG5ncmYwd3c0ZTEwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGK28plOpgBA1TW/giphy.gif" width="260" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJxcHFvOTRoaTc0cm5ldmNsc3F6c3E4ZGVldG5ncmYwd3c0ZTEwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGK28plOpgBA1TW/giphy.gif" width="160" />
 </div>
 
 <div align="center">
@@ -186,12 +188,12 @@
 </div>
 
 
-<sub align="center">explicit signals · distorted sound · creative chaos</sub>
-
 [![](https://visitcount.itsvg.in/api?id=MoisesWave&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Parental -->
-
+<div align="center">
+  <img src="assets/LOGO PARENTAL ADVISORY.png" width="130"/>
+</div>
 
 
 
