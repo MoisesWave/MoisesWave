@@ -17,9 +17,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:0f0f0f&height=35&section=footer" />
 </div>
 
-<!-- Psychedelic Space Divider -->
+
+<!-- GIF 1-->
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJxcHFvOTRoaTc0cm5ldmNsc3F6c3E4ZGVldG5ncmYwd3c0ZTEwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGK28plOpgBA1TW/giphy.gif" width="360" />
+<img src="https://i.pinimg.com/originals/02/c1/42/02c142bbaa030cd3b1af1c47825e4bf0.gif" width="360" />
 </div>
 
 
@@ -174,6 +175,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=60&section=footer" />
 </div>
 
+
+<!-- GIF 2-->
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJxcHFvOTRoaTc0cm5ldmNsc3F6c3E4ZGVldG5ncmYwd3c0ZTEwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGK28plOpgBA1TW/giphy.gif" width="260" />
+</div>
 
 
 <sub>⚠️ experimental zone · distorted aesthetics · volume up</sub>
