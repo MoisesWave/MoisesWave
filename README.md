@@ -1,14 +1,14 @@
+
 <!-- TITULO -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:262626&height=190&text=MOISESWAVE&fontColor=c084fc&fontSize=42&animation=fadeIn&stroke=c084fc&strokeWidth=0.6" />
 </div>
 
-
 <div align="center">
 
-### creative signal · distorted sound · digital chaos  
-<sub>design · music · code</sub>
+### creative signal · secure systems · digital analysis  
+<sub>cybersecurity · networks · code</sub>
 
 </div>
 
@@ -24,27 +24,24 @@
 <img src="assets/astro.gif" width="360" />
 </div>
 
-
 <!-- Horizontal rule -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
 </div>
-
 
 ## ◉ ＳＩＧＮＡＬ　ＭＡＮＩＦＥＳＴ
 
-- sound before structure  
-- visuals before rules  
-- chaos with intention  
-- late nights, loud ideas  
+- understanding systems before exploiting them  
+- visibility before assumptions  
+- controlled chaos · measured risk  
+- long nights · silent networks  
 
-<sub>inspired by distortion · neon · future noise</sub>
+<sub>inspired by systems · attack surfaces · future security</sub>
 
 <!-- Horizontal rule -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
 </div>
-
 
 ## ◌ ＳＯＣＩＡＬ　ＬＩＮＫＳ
 
@@ -60,8 +57,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
 </div>
-
-
 
 ## ◈ ＣＲＥＡＴＩＶＥ　ＴＯＯＬＣＨＡＩＮ
 
@@ -80,8 +75,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
 </div>
 
-
-
 ## ⌬ ＤＡＷ　ＺＯＮＥ
 
 <div align="center">
@@ -97,17 +90,30 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
 </div>
 
-
-
-## ⧉ ＤＥＶ　ＳＹＳＴＥＭ
+## ⧉ ＷＥＢ　＆　ＡＰＰＬＩＣＡＴＩＯＮ　ＳＴＡＣＫ
 
 <div align="center">
 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+
+</div>
+
+<!-- Horizontal rule -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
+</div>
+
+## ⧗ ＬＥＡＲＮＩＮＧ　ＰＡＴＨ
+
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![Elixir](https://img.shields.io/badge/Elixir-000?style=for-the-badge&logo=elixir)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
 </div>
 
@@ -116,15 +122,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
 </div>
 
-
-## ⛶ ＩＮＦＲＡ　／　ＣＬＯＵＤ
+## ⛶ ＳＥＣＵＲＩＴＹ　ＬＡＢ　ＥＮＶＩＲＯＮＭＥＮＴＳ
 
 <div align="center">
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0f0f0f?style=for-the-badge&logo=googlecloud)
-![Azure](https://img.shields.io/badge/Azure-0f0f0f?style=for-the-badge&logo=microsoftazure)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0f0f0f?style=for-the-badge&logo=cloudflare)
-![Oracle](https://img.shields.io/badge/Oracle-0f0f0f?style=for-the-badge&logo=oracle)
+Kali Linux · Parrot Security OS · Purple Linux  
+Network Security Toolkit (NST) · Metasploitable Linux  
 
 </div>
 
@@ -133,24 +136,27 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
 </div>
 
+## ⟁ ＳＥＣＵＲＩＴＹ　ＴＯＯＬＫＩＴ
 
+**Network & Recon**
+- Nmap · Wireshark  
 
+**Web Security**
+- Burp Suite  
 
-## ⟁ ＳＹＳＴＥＭ　ＴＯＯＬＳ
+**Credential & Wireless Testing**
+- John the Ripper · Hydra · Aircrack-ng Suite  
 
-<div align="center">
+**Vulnerability Assessment**
+- Nessus  
 
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Trello](https://img.shields.io/badge/Trello-000?style=for-the-badge&logo=trello)
-
-</div>
+**Forensics & Post-Incident**
+- Autopsy · Sleuth Kit  
 
 <!-- Horizontal rule -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
 </div>
-
 
 ## ⌁ ＳＩＧＮＡＬ　ＦＬＯＷ
 
@@ -160,21 +166,36 @@
 
 <!-- Horizontal rule -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:1f1f1f,100:3a3a3a&height=60&section=footer" />
-</div>
-
-
-
-## ⦿ ＳＹＳＴＥＭ　ＴＥＬＥＭＥＴＲＹ
-
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=MoisesWave&theme=tokyonight&hide_border=true" />
-</div>
-
-<!-- Horizontal rule -->
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=60&section=footer" />
 </div>
+
+## ⦿ ＣＵＲＲＥＮＴ　ＦＯＣＵＳ
+
+- Cybersecurity fundamentals  
+- Network & web application security  
+- Ethical testing in lab environments  
+
+<sub>learning in progress · no shortcuts</sub>
+
+
+## ⦿ ＬＡＢ　ＡＣＴＩＶＩＴＹ
+
+<div align="center">
+
+Lab-based practice · Hands-on learning  
+Security tools · Network analysis · Web fundamentals  
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=MoisesWave&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesWave&theme=tokyo-night&hide_border=true" />
+</div>
+
 
 <br>
 
@@ -184,9 +205,8 @@
 </div>
 
 <div align="center">
-<sub>⚠️ Experimental zone · Distorted aesthetics ·Volume up</sub>
+<sub>⚠️ Experimental zone · Security research · Lab environments only</sub>
 </div>
-
 
 [![](https://visitcount.itsvg.in/api?id=MoisesWave&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -194,6 +214,3 @@
 <div align="center">
   <img src="assets/LOGO PARENTAL ADVISORY.png" width="130"/>
 </div>
-
-
-
